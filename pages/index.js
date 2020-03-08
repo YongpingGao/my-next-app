@@ -8,6 +8,7 @@ const Home = () => (
     </Head>
 
     <main>
+<<<<<<< Updated upstream
       <h1 className="title">
         Welcome to <a href="https://nextjs.org">Next.js!</a>
       </h1>
@@ -45,6 +46,10 @@ const Home = () => (
           </p>
         </a>
       </div>
+=======
+      <h1 className="title">Welcome to My space!</h1>
+      <h2> Wow </h2>
+>>>>>>> Stashed changes
     </main>
 
     <footer>
