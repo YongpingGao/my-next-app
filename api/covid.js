@@ -1,5 +1,7 @@
 import fetch from "isomorphic-unfetch";
 module.exports = async (req, res) => {
+  console.log("GOT THE DATA", req.body);
+
   res.status(200).send(req.body);
 
   //   const promise = await fetch(
