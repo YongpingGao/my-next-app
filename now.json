@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "scope": "YPStudio",
+  "build": {
+    "env": {
+      "TELEGRAM_BOT_TOKEN": "371152742:AAEIyZI-6hRUfV6etK2gTVsBmwePYFTUQ1E"
+    }
+  },
+  "env": {
+    "TELEGRAM_BOT_TOKEN": "371152742:AAEIyZI-6hRUfV6etK2gTVsBmwePYFTUQ1E"
+  }
+}
